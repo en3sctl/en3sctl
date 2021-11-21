@@ -1,6 +1,6 @@
 ### Hi there 👋 Enes 
 
-<img align="right" alt="GIF" src="https://github.com/en3sctl/en3sctl/blob/main/yoda-coffee.gif" width="500" height="400" />
+<img align="right" alt="GIF" src="https://github.com/en3sctl/en3sctl/blob/main/undefined%20-%20Imgur.gif" width="500" height="400" />
 
 - 🌱 I’m currently learning Java,SQL,Linux,
 - 👯 I’m looking to collaborate on open source,
