@@ -1,4 +1,4 @@
-### Hi there 👋 Enes 
+### Hi there 👋 I'm Enes 
 
 <img align="right" alt="GIF" src="https://github.com/en3sctl/en3sctl/blob/main/undefined%20-%20Imgur.gif" width="500" height="400" />
 
