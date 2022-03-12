@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Java,C++,SQL,Linux,
 - 👯 I’m looking to collaborate on open source,
-- 🤔 I’m looking for help with Java,
+- 🤔 I’m looking for help with Java,CPP
 - 💬 Ask me about anything,
 - 📫 How to reach me: [Instagram](https://www.instagram.com/enes.ctl/) [Linkedin](https://pl.linkedin.com/in/enes-catal-11bb44225/pl?trk=people-guest_people_search-card)
 - 😄 Pronouns: He/Him,
