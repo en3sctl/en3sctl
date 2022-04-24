@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Java, C++
 - 💬 Ask me about anything
-- 📫 How to reach me: [instagram](https://www.instagram.com/enes.ctl/), [linkedIn](https://www.linkedin.com/in/enes-catal-/)
+- 📫 How to reach me: [catalenes6@gmail.com](mailto:catalenes6@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: learning anything :)
 
