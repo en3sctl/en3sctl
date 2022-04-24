@@ -1,5 +1,11 @@
 Hi 👋 My name is Enes
-=====================I am currently a full time computer engineering student at the Polish-Japanese Academy of Information Technology. I am currently learning JAVA, C++, LINUX, SQL, OOP and Android Studio. Furthermore, I love to research and learn new things. At the same time, I have a moderate command of some office programs. That's all for now :)* 🌍  I'm based in Warsaw* ✉️  You can contact me at [catalenes6@gmail.com](mailto:catalenes6@gmail.com)* 🧠  I'm learning JAVA, C++, LINUX, SQL, OOP* 🤝  I'm open to collaborating on open source* ⚡  Learning anything
+=====================
+I am currently a full time computer engineering student at the Polish-Japanese Academy of Information Technology. I am currently learning JAVA, C++, LINUX, SQL, OOP and Android Studio. Furthermore, I love to research and learn new things. At the same time, I have a moderate command of some office programs. That's all for now :)* 
+🌍  I'm based in Warsaw* 
+✉️  You can contact me at [catalenes6@gmail.com](mailto:catalenes6@gmail.com)* 
+🧠  I'm learning JAVA, C++, LINUX, SQL, OOP* 
+🤝  I'm open to collaborating on open source* 
+⚡  Learning anything
 
 ### Skills
 
