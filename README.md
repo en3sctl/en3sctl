@@ -5,11 +5,9 @@
 - 🔭 I’m currently working on my self Projects
 - 🌱 I’m currently learning Java, C++, Sql, Linux
 - 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with Java, C++
 - 💬 Ask me about anything
 - 📫 How to reach me: [catalenes6@gmail.com](mailto:catalenes6@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: learning anything :)
+- ⚡ Fun fact: Learning anything :)
 
 ### Skills
 <p align="left">
