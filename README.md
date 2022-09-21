@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/en3sctl/en3sctl/blob/main/USBA.gif" width="500" height="400" />
 
 - 🔭 I’m currently working on my self Projects
-- 🌱 I’m currently learning Java, C++, Sql, Linux
+- 🌱 I’m currently learning Java, C++, Sql, Linux, npm, GitBash
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything
 - 📫 How to reach me: [catalenes6@gmail.com](mailto:catalenes6@gmail.com)
