@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Java, C++, Sql, Linux, npm, GitBash
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything
-- 📫 How to reach me: [https://en3sctl.github.io/]
+- 📫 How to reach me: [https://en3sctl.github.io/](https://en3sctl.github.io/)
 - ⚡ Fun fact: Learning anything :)
 
 ### Skills
