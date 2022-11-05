@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Java, C++, Sql, Linux, npm, GitBash
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything
-- 📫 How to reach me: [catalenes6@gmail.com](mailto:catalenes6@gmail.com)
+- 📫 How to reach me: [catalenes6@gmail.com](en3sctl/amat55)
 - ⚡ Fun fact: Learning anything :)
 
 ### Skills
